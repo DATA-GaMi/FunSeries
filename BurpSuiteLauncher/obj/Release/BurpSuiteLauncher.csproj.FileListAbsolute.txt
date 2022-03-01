@@ -1,0 +1,9 @@
+D:\C#\BurpSuiteLauncher\bin\Release\Launcher.exe.config
+D:\C#\BurpSuiteLauncher\bin\Release\Launcher.exe
+D:\C#\BurpSuiteLauncher\bin\Release\Launcher.pdb
+D:\C#\BurpSuiteLauncher\obj\Release\BurpSuiteLauncher.Launcher.resources
+D:\C#\BurpSuiteLauncher\obj\Release\BurpSuiteLauncher.Properties.Resources.resources
+D:\C#\BurpSuiteLauncher\obj\Release\BurpSuiteLauncher.csproj.GenerateResource.cache
+D:\C#\BurpSuiteLauncher\obj\Release\BurpSuiteLauncher.csproj.CoreCompileInputs.cache
+D:\C#\BurpSuiteLauncher\obj\Release\Launcher.exe
+D:\C#\BurpSuiteLauncher\obj\Release\Launcher.pdb
